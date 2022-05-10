@@ -1,10 +1,10 @@
 <template>
   <div class="bg-cyan relative h-screen z-0 overflow-hidden">
     <div class="absolute -left-1/4 bottom-1/2 overflow-hidden">
-      <img src="bg-pattern-top.svg" class="pointer-events-none" alt="">
+      <img src="/bg-pattern-top.svg" class="pointer-events-none" alt="">
     </div>
     <div class="absolute -right-1/4 top-1/2 overflow-hidden z-10">
-      <img src="bg-pattern-bottom.svg" class="" alt="">
+      <img src="/bg-pattern-bottom.svg" class="" alt="">
     </div>
 
 
